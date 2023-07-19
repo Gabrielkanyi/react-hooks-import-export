@@ -248,7 +248,7 @@ import * as RMFunctions from "./parks/RockyMountain";
 console.log(RMFunctions.trees);
 // => "Aspen and Pine"
 
-RMFunctions.wildlife();
+RMFunctions.wildlife();w
 // => "Elk, Bighorn Sheep, Moose"
 
 RMFunctions.elevation();
